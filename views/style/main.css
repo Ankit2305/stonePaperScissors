@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Open Sans;
+}
+
+h1 {
+  background-color: #9F10E5;
+  color: white;
+  margin: 0;
+  padding: 0.5em;
+  font-size: 20px;
+}
+
+.normalText {
+  font-size: 18px;
+}
+
+.bigText {
+  font-size: 20px;
+  text-align: center;
+}
+
+#prep {
+  margin: 70px 20px;
+}
+
+#userName, #noOfRounds {
+  width: 97%;
+  height: 35px;
+  border-color: #9F10E5;
+  border-width: 1px;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+#sTG {
+  margin-top: 70px;
+}
+
+.btn {
+  text-align: center;
+  background-color: #9F10E5;
+  width: 96%;
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#game {
+  margin: 50px 20px;
+}
+
+#currentScore {
+  margin-top: 50px;
+}
+
+#a {
+  margin: 20px;
+  display: none;
+}
+
+#pA {
+  display: block;
+  text-decoration: none;
+}
+
+#choice {
+  margin-top: 2.5em;
+}
+
+#log, #choice {
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
